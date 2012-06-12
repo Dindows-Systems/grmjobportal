@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="JSService">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\ServMaint.cs</FileName>
+      <HashCode>AAAAABAAQQAgAAAEAAAAAQMCAAgEAAAAEBBAAgAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReService">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\ReService.cs</FileName>
+      <HashCode>AAAAAAAQBQAAAAAAAgAACABAAEAoAAAGAQEQAgAIAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

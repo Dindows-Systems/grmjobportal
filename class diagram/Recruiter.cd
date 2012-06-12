@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="RecruiterLogin">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\RecruiterLogin.cs</FileName>
+      <HashCode>AAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecruiterAccount">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\RecruiterAccount.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAgBAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
